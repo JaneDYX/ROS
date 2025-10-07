@@ -1,0 +1,15 @@
+# ROS / Catkin
+build/
+devel/
+install/
+.catkin_tools/
+.ccls-cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
